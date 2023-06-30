@@ -1,0 +1,29 @@
+/* Hero Section */
+.hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+  }
+  
+  /* Best Places to Visit Section */
+  .section {
+    padding: 50px 0;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
